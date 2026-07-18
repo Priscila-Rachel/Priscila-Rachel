@@ -1,5 +1,6 @@
 <div align ="center"> 
-  <h1 aling=center>## Hola, soy Priscila Benitez  👋 </h1
+  <h1 aling=center>## Hola, soy Priscila Benitez  👋 </h1>
+  
   <div/>
 
 <!--
