@@ -1,19 +1,35 @@
-<div align ="center"> 
-  <h1 aling=center>## Hola, soy Priscila Benitez  👋 </h1>
-  
-  <div/>
+# ¡Hola! Soy Priscila Benitez 👋
 
-<!--
-**Priscila-Rachel/Priscila-Rachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora de software enfocada en el ecosistema **.NET**. Disfruto construyendo aplicaciones robustas de principio a fin: desde el diseño y la administración de la base de datos relacional hasta el maquetado y la lógica de la interfaz de usuario. 
 
-Here are some ideas to get you started:
+Me destaco por mi enfoque analítico, aplicando Programación Orientada a Objetos (POO) y arquitectura en capas para crear código limpio y escalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologías y Herramientas
+
+**Backend & Bases de Datos**
+- **Lenguaje:** C# 
+- **Frameworks/Tecnologías:** .NET, Windows Forms, WebForms, ADO.NET
+- **Bases de Datos:** SQL Server, T-SQL (Diseño de esquemas, consultas complejas y gestión)
+
+**Frontend**
+- HTML5 & CSS3
+- JavaScript
+- Diseño Responsivo (Bootstrap)
+
+**Herramientas de Desarrollo**
+- Visual Studio / VS Code
+- Git & GitHub
+
+### 🚀 ¿En qué estoy trabajando?
+- 🎓 Actualmente ampliando mis conocimientos en **ASP.NET MVC y Entity Framework** para el desarrollo web moderno.
+- 💻 Desarrollando proyectos que integran bases de datos relacionales con interfaces interactivas (puedes echarle un vistazo a mi repositorio del *Pokémon Desktop Manager*).
+- 🔍 Siempre explorando buenas prácticas, Clean Architecture y metodologías para mejorar el rendimiento de mis aplicaciones.
+
+### 📫 Conecta conmigo
+
+- 🌐 **Portfolio:** [priscila-rachel.github.io/Portfolio](https://priscila-rachel.github.io/Portfolio/)
+- 💼 **LinkedIn:** [Enlace a tu LinkedIn]
+- ✉️ **Email:** [Tu correo electrónico]
+
+---
+⭐️ *De la lógica de datos a la pantalla, transformando ideas en código.*
