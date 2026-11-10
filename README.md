@@ -28,8 +28,8 @@ Me destaco por mi enfoque analítico, aplicando Programación Orientada a Objeto
 ### 📫 Conecta conmigo
 
 - 🌐 **Portfolio:** [priscila-rachel.github.io/Portfolio](https://priscila-rachel.github.io/Portfolio/)
-- 💼 **LinkedIn:** [Enlace a tu LinkedIn]
-- ✉️ **Email:** [Tu correo electrónico]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/priscila-benitez]
+- ✉️ **Email:** [priscilabenitez9919@gmail.com]
 
 ---
 ⭐️ *De la lógica de datos a la pantalla, transformando ideas en código.*
